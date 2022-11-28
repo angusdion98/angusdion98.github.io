@@ -26,4 +26,4 @@ Design Inspiration: https://maverickclothing.com/
 
 Icons: https://www.w3.org/TR/SVG2/shapes.html
 
-Logos, Images and Videos: All where created by Angus himself :)
+Logos, Images and Videos: All were created by Angus himself :)
