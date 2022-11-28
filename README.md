@@ -24,4 +24,6 @@ https://www.w3schools.com/css/css_rwd_templates.asp
 
 Design Inspiration: https://maverickclothing.com/
 
-Icons, Images and Videos: All where created by Angus himself :)
+Icons: https://www.w3.org/TR/SVG2/shapes.html
+
+Logos, Images and Videos: All where created by Angus himself :)
